@@ -2,7 +2,8 @@
 ## 运行环境参考enveriment.yaml文件
 
 ## 数据集以及数据库存放地址 
-links:https://pan.baidu.com/s/1cHAgUjsgbCVp6Gefp2kohw?pwd=75qs //
+links:https://pan.baidu.com/s/1cHAgUjsgbCVp6Gefp2kohw?pwd=75qs
+
 codes：75qs
 ## checkpoints 文件夹中包含能量预测模型的记录以及模型参数
 ## models包含深度学习预测模型
