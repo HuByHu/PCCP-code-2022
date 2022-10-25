@@ -18,3 +18,6 @@ QMLmodels contain quantum machine learning prediction models
 
 ## SVRmodels包含linear和quantum核的预测模型
 SVRmodels include SVM predictive models with linear and quantum kernels
+
+## 有关CPX222表面能和CPX321的能量预测模型，将会在整理完成后，立即更新
+The energy prediction models for CPX222 surface energy and CPX321 will be updated as soon as they have been compiled
